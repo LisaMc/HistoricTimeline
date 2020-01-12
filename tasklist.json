@@ -1,0 +1,631 @@
+[
+    {
+        "startDateString":"2010",
+        "endDateString":"2015",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Hipster"
+    },
+    {
+        "startDateString":"1997",
+        "endDateString":"2005",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Metrosexual"
+    },
+    {
+        "startDateString":"1990",
+        "endDateString":"1999",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Grunge"
+    },
+    {
+        "startDateString":"1988",
+        "endDateString":"1994",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Punk"
+    },
+    {
+        "startDateString":"1970",
+        "endDateString":"1979",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Disco"
+    },
+    {
+        "startDateString":"1960",
+        "endDateString":"1969",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Hippie"
+    },
+    {
+        "startDateString":"1950",
+        "endDateString":"1959",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Beatniks"
+    },
+    {
+        "startDateString":"1920",
+        "endDateString":"1929",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Flapper / Zoot Suit"
+    },
+    {
+        "startDateString":"1903",
+        "endDateString":"1903",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Zipper Invented"
+    },
+    {
+        "startDateString":"1850",
+        "endDateString":"1899",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Corset"
+    },
+    {
+        "startDateString":"1965",
+        "endDateString":"1975",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Cold War"
+    },
+    {
+        "startDateString":"1978",
+        "endDateString":"1978",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Bay of Pigs"
+    },{
+        "startDateString":"1919",
+        "endDateString":"1919",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Womens Suffrage"
+    },{
+        "startDateString":"1950",
+        "endDateString":"1955",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Red Scare / anti-communism"
+    },{
+        "startDateString":"1945",
+        "endDateString":"1950",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Reconstruction"
+    },{
+        "startDateString":"1919",
+        "endDateString":"1919",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Womens Suffrage"
+    },{
+        "startDateString":"1940",
+        "endDateString":"1947",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "WWII"
+    },{
+        "startDateString":"1933",
+        "endDateString":"1936",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "FDR New Deal"
+    },{
+        "startDateString":"1929",
+        "endDateString":"1929",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Black Tuesday Crash"
+    },{
+        "startDateString":"1929",
+        "endDateString":"1932",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Great Depression"
+    },{
+        "startDateString":"1928",
+        "endDateString":"1928",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "5 day work week"
+    },{
+        "startDateString":"1968",
+        "endDateString":"1978",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Vietnam War"
+    },{
+        "startDateString":"1914",
+        "endDateString":"1921",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Prohibition"
+    },{
+        "startDateString":"1770",
+        "endDateString":"1776",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Revolutionary War"
+    },{
+        "startDateString":"1855",
+        "endDateString":"1865",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "US Civil War"
+    },{
+        "startDateString":"1894",
+        "endDateString":"1915",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Industrial Revolution"
+    },{
+        "startDateString":"1830",
+        "endDateString":"1880",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Victorian Era"
+    },{
+        "startDateString":"1945",
+        "endDateString":"1955",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Che Guevera Marxism"
+    },{
+        "startDateString":"1930",
+        "endDateString":"1939",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Stalin"
+    },{
+        "startDateString":"1920",
+        "endDateString":"1929",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Lenin Socialism"
+    },{
+        "startDateString":"1890",
+        "endDateString":"1920",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Einstein"
+    },{
+        "startDateString":"1850",
+        "endDateString":"1890",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Marxism"
+    },{
+        "startDateString":"1850",
+        "endDateString":"1850",
+        "taskName":"Fashion",
+        "status":"RAW",
+        "label": "Denim"
+    },{
+        "startDateString":"2001",
+        "endDateString":"2015",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Hugo Chavez"
+    },{
+        "startDateString":"2011",
+        "endDateString":"2012",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Marriage Equality"
+    },
+    {
+        "startDateString":"2010",
+        "endDateString":"2012",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Cannabis Legalized"
+    },
+    {
+        "startDateString":"2007",
+        "endDateString":"2008",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Housing Crisis"
+    },
+    {
+        "startDateString":"09-11-2001",
+        "endDateString":"09-11-2001",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "World Trade Center 9/11"
+    },
+    {
+        "startDateString":"1997",
+        "endDateString":"1997",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Australia Outlaws Guns"
+    },
+    {
+        "startDateString":"1996",
+        "endDateString":"1996",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Fall of USSR"
+    },
+    {
+        "startDateString":"2015",
+        "endDateString":"2019",
+        "taskName":"Geology",
+        "status":"RAW",
+        "label": "Wildfires"
+    },
+    {
+        "startDateString":"2009",
+        "endDateString":"2009",
+        "taskName":"Geology",
+        "status":"RAW",
+        "label": "Fukishima Earthquake"
+    },
+    {
+        "startDateString":"2005",
+        "endDateString":"2005",
+        "taskName":"Geology",
+        "status":"RAW",
+        "label": "Hurricane Katrina"
+    },
+    {
+        "startDateString":"2004",
+        "endDateString":"2004",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Gore Climate Change"
+    },
+    {
+        "startDateString":"1985",
+        "endDateString":"1985",
+        "taskName":"Geology",
+        "status":"RAW",
+        "label": "Mt St Helens Erupts"
+    },
+    {
+        "startDateString":"2003",
+        "endDateString":"2003",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Bitcoin"
+    },
+    {
+        "startDateString":"2010",
+        "endDateString":"2019",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Twitter/Instagram"
+    },
+    {
+        "startDateString":"2001",
+        "endDateString":"2012",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Facebook"
+    },
+    {
+        "startDateString":"2003",
+        "endDateString":"2019",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "AWS Cloud Computing"
+    },
+    {
+        "startDateString":"1950",
+        "endDateString":"1950",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "TV"
+    },
+    {
+        "startDateString":"1950",
+        "endDateString":"1955",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Highways (Eisenhower)"
+    },
+    {
+        "startDateString":"1950",
+        "endDateString":"1950",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Nuclear Power"
+    },
+    {
+        "startDateString":"1925",
+        "endDateString":"1925",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Atomic Bomb"
+    },
+    {
+        "startDateString":"1915",
+        "endDateString":"1915",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Plastic"
+    },
+    {
+        "startDateString":"1903",
+        "endDateString":"1903",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "First Flight"
+    },
+    {
+        "startDateString":"1905",
+        "endDateString":"1905",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Sliced Break"
+    },
+    {
+        "startDateString":"1890",
+        "endDateString":"1890",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "AM/FM Radio"
+    },
+    {
+        "startDateString":"1915",
+        "endDateString":"1915",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Model T Cars"
+    },
+    {
+        "startDateString":"1815",
+        "endDateString":"1815",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Railway"
+    },
+    {
+        "startDateString":"1815",
+        "endDateString":"1815",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Telephone"
+    },
+    {
+        "startDateString":"1815",
+        "endDateString":"1815",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Tesla / Edison"
+    },
+    {
+        "startDateString":"1998",
+        "endDateString":"2005",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Mobile phone"
+    },
+    {
+        "startDateString":"1815",
+        "endDateString":"1815",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Electricity"
+    },
+    {
+        "startDateString":"1784",
+        "endDateString":"1784",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Steam Engine"
+    },
+    {
+        "startDateString":"1960",
+        "endDateString":"2020",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Cancer"
+    },
+    {
+        "startDateString":"1965",
+        "endDateString":"1990",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "AIDS/HIV"
+    },
+    {
+        "startDateString":"1828",
+        "endDateString":"1930",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Polio"
+    },
+    {
+        "startDateString":"1925",
+        "endDateString":"1930",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Smallpox"
+    },
+    {
+        "startDateString":"1930",
+        "endDateString":"1932",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Penicillin"
+    },
+    {
+        "startDateString":"1952",
+        "endDateString":"1952",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "DNA Helix"
+    },
+    {
+        "startDateString":"2005",
+        "endDateString":"2019",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Smartphone"
+    },
+    {
+        "startDateString":"1990",
+        "endDateString":"2003",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "AOL Internet"
+    },
+    {
+        "startDateString":"1975",
+        "endDateString":"1985",
+        "taskName":"Technology",
+        "status":"RAW",
+        "label": "Personal Computer (PC)"
+    },
+    {
+        "startDateString":"2015",
+        "endDateString":"2019",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Anti-Vaxx"
+    },
+    {
+        "startDateString":"2013",
+        "endDateString":"2017",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Ebola"
+    },
+    {
+        "startDateString":"2004",
+        "endDateString":"2005",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "SARS"
+    },
+    {
+        "startDateString":"2002",
+        "endDateString":"2005",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Bird/Swine Flu"
+    },
+    {
+        "startDateString":"1998",
+        "endDateString":"2002",
+        "taskName":"Disease",
+        "status":"RAW",
+        "label": "Mad Cow"
+    },
+    {
+        "startDateString":"2001",
+        "endDateString":"2002",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Mars Rover"
+    },
+    {
+        "startDateString":"1997",
+        "endDateString":"1997",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Hubble Launch"
+    },
+    {
+        "startDateString":"1970",
+        "endDateString":"1970",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Voyager Launch"
+    },
+    {
+        "startDateString":"2001",
+        "endDateString":"2002",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Mars Rover"
+    },
+    {
+        "startDateString":"1969",
+        "endDateString":"1969",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Man on Moon"
+    },
+    {
+        "startDateString":"1953",
+        "endDateString":"1953",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Mt Everest Summited"
+    },
+    {
+        "startDateString":"1830",
+        "endDateString":"1849",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Gold Rush"
+    },
+    {
+        "startDateString":"1790",
+        "endDateString":"1815",
+        "taskName":"Discovery",
+        "status":"RAW",
+        "label": "Louisiana Purchase (L & C & Sacagewa)"
+    },
+    {
+        "startDateString":"1750",
+        "endDateString":"1760",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "French Revolution (Marie Antoinette)"
+    },
+    {
+        "startDateString":"1650",
+        "endDateString":"1720",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Expansion/Colonialism"
+    },
+    {
+        "startDateString":"1615",
+        "endDateString":"1616",
+        "taskName":"People",
+        "status":"RAW",
+        "label": "Shakespeare"
+    },
+    {
+        "startDateString":"1350",
+        "endDateString":"1500",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Dark/Middle Age"
+    },
+    {
+        "startDateString":"1250",
+        "endDateString":"1300",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Rennaisance"
+    },
+    {
+        "startDateString":"300",
+        "endDateString":"1000",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Roman Empire"
+    },
+    {
+        "startDateString":"10",
+        "endDateString":"-500",
+        "taskName":"Politics",
+        "status":"RAW",
+        "label": "Greek Empire"
+    }
+
+]
